@@ -1,0 +1,211 @@
+{
+    "sem1":[
+        {   
+            "subject":"Physics-I",
+            "code":"BSPH-101",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Chemistry-I",
+            "code":"bsc-201",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Electrical Engineering",
+            "code":"bsc-201",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Mathematics-I",
+            "code":"bsc-201",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        } 
+    ],
+
+    "sem2":[
+
+    ],
+
+    "sem3":[
+        {   
+            "subject":"Analog and DigitalElectronics",
+            "code":"ESC 301",
+            "pyqLink":"url",
+            "organiser":"https://drive.google.com/file/d/1efPwGTlyqDqlVB6tPp-by1JuOWrtu9Xf/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Data Structure & Algorithms",
+            "code":"PCC-CS301 ",
+            "pyqLink":"url",
+            "organiser":"https://drive.google.com/file/d/1huG-B3zjGGs7DROUQQHlNrrqIxIaPJGg/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Computer Organisation",
+            "code":"PCC-CS302",
+            "pyqLink":"url",
+            "organiser":"https://drive.google.com/file/d/11Lzouv2lQ4W6IDzgY6H79R8-lyU93Ty-/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Mathematics-III(Differential Calculus)",
+            "code":"BSC 301",
+            "pyqLink":"url",
+            "organiser":"https://drive.google.com/file/d/1YeU2rls6_q6Eb2Ksxryun4ILuYrUjEIL/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Economics for Engineers(Humanities-II)",
+            "code":"HSMC 301",
+            "pyqLink":"url",
+            "organiser":"https://drive.google.com/file/d/1xrQxcbNfta2zKXTLA90GMe5xcUvhSjoC/view?usp=drivesdk",
+            "playlist":"url"
+        }
+    ],
+
+    "sem4":[
+        {   
+            "subject":"Discrete Mathematics",
+            "code":"PC-CCS 401",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Computer Architecture",
+            "code":"PCC-CS 402",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Formal Language & Automata Theory",
+            "code":"PCC-CS 403",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Design & Analysis of Algorithms",
+            "code":"PCC-CS 404",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Biology",
+            "code":"BSC 401",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Environmental Sciences",
+            "code":"MC401",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }
+        
+    ],
+
+    "sem5":[
+        {   
+            "subject":"Software Engineering",
+            "code":"ESC501",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Compiler Design",
+            "code":"PCC-CS 501",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Operating Systems",
+            "code":"PCCCS502",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Object OrientedProgramming",
+            "code":"PCC-CS 503",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Introduction to Industrial Management(Humanities III)",
+            "code":"HSMC-501",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Constitution of India/Essence of Indian Knowledge Tradition",
+            "code":"MC-CS501",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Introduction to Artificial Intelligence",
+            "code":"HSMC-501",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }
+    ],
+
+    "sem6":[
+        {   
+            "subject":"Database Management Systems",
+            "code":"PCC-CS 601",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Computer Networks",
+            "code":"PCC-CS 602",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Image Processing",
+            "code":"PECIT601A/B/C/D",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Pattern Recognization",
+            "code":"PECIT602A/B/C/D",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"NM",
+            "code":"OECIT601A/B",
+            "pyqLink":"url",
+            "organiser":"url",
+            "playlist":"url"
+        }
+    ]
+
+}
