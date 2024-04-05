@@ -3,28 +3,68 @@
         {   
             "subject":"Physics-I",
             "code":"BSPH-101",
-            "pyqLink":"url",
+            "pyqLink":[
+                {
+                    "2023":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2022":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2021":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                }
+            ],
             "organiser":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk",
             "playlist":"url"
         },
         {   
             "subject":"Chemistry-I",
             "code":"bsc-201",
-            "pyqLink":"url",
+            "pyqLink":[
+                {
+                    "2023":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2022":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2021":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                }
+            ],
             "organiser":"https://drive.google.com/file/d/1OspZLUS5-7UvfUOe8aJTmp6Ia5AaAI_C/view?usp=drivesdk",
             "playlist":"url"
         },
         {   
             "subject":"Electrical Engineering",
             "code":"bsc-201",
-            "pyqLink":"url",
+            "pyqLink":[
+                {
+                    "2023":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2022":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2021":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                }
+            ],
             "organiser":"https://drive.google.com/file/d/1E5GoXYaO7Ui3slAhxIbKj0tar8isriYg/view?usp=drivesdk",
             "playlist":"url"
         },
         {   
             "subject":"Mathematics-I",
             "code":"bsc-201",
-            "pyqLink":"url",
+            "pyqLink":[
+                {
+                    "2023":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2022":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                },
+                {
+                    "2021":"https://drive.google.com/file/d/11NaKSaBoQxJJIh-csxMGTaMa1vdd3Qnp/view?usp=drivesdk"
+                }
+            ],
             "organiser":"https://drive.google.com/file/d/1P3oSljQ2saHe0v6yQQ1ggdwfjD7W4q2P/view?usp=drivesdk",
             "playlist":"url"
         } 
