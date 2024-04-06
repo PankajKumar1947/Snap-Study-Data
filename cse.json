@@ -71,7 +71,48 @@
     ],
 
     "sem2":[
-
+        {   
+            "subject":"Physics-I ",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1O5BPUMhHdxJJ5htlk6eKVk6sRaEamNkf/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Chemistry-I",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/10lh388vy_96cbFboFAH9WRNCh_w2KZ7R/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Mathematics – II B",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1wYsv5SIs-h8vgdkMvZ0EfFV3YLzLhOP1/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Mathematics – II A ",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1oJxSgCpNPEo1fTon8gKPBa631mMJYDXs/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"English ",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1kyBQfj-hpxWLMOiMJAiqFOe6hQppkqpn/view?usp=drivesdk",
+            "playlist":"url"
+        },
+        {   
+            "subject":"Programming for Problem Solving",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1LEK2VbUfLCZij3hTmcwrDHqrTieLVmqc/view?usp=drivesdk",
+            "playlist":"url"
+        }
     ],
 
     "sem3":[
@@ -117,21 +158,21 @@
             "subject":"Discrete Mathematics",
             "code":"PC-CCS 401",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1R9NN7zjC5j0KJU-9T9xYKdys1SD258rn/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Computer Architecture",
             "code":"PCC-CS 402",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1OimzNeXdR5OgLTcEkoE-iLvLfXTS7mQ5/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Formal Language & Automata Theory",
             "code":"PCC-CS 403",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1GYRBJaI-Ch6YbNYODVUoOZvLNy0Nsn8w/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
@@ -145,14 +186,14 @@
             "subject":"Biology",
             "code":"BSC 401",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/11P8zDPYyuGY_D-JRj0FQ2Efpv0HQ-6PB/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Environmental Sciences",
             "code":"MC401",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/194CfKP4v1C3z9Q4-nn08aC4J4w_1sQE8/view?usp=drivesdk",
             "playlist":"url"
         }
         
@@ -163,28 +204,28 @@
             "subject":"Software Engineering",
             "code":"ESC501",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1mcHTCoDO6pL3hHfwUTsyLMEirCveeETm/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Compiler Design",
             "code":"PCC-CS 501",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1sOqkiuLjpJVkyr_S2OWAR8XxF83--Wp6/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Operating Systems",
             "code":"PCCCS502",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1mcHTCoDO6pL3hHfwUTsyLMEirCveeETm/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Object OrientedProgramming",
             "code":"PCC-CS 503",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1jN1sZiC3RRhPvdUTKlq7oHUV5rF3eSAS/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
@@ -202,10 +243,17 @@
             "playlist":"url"
         }, 
         {   
+            "subject":"Machine Learning",
+            "code":"MC-CS501",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1l9l_vhstoz7j6XKeX5J9vU_zIRbrrC8Z/view?usp=drivesdk",
+            "playlist":"url"
+        }, 
+        {   
             "subject":"Introduction to Artificial Intelligence",
             "code":"HSMC-501",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/14FkGluDM9QRGkPdc7KEhh_WtdMM8X3fD/view?usp=drivesdk",
             "playlist":"url"
         }
     ],
@@ -215,35 +263,97 @@
             "subject":"Database Management Systems",
             "code":"PCC-CS 601",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1nJGgJL7XGy6xg8eZGe23SKmo41zuWi0Q/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Computer Networks",
             "code":"PCC-CS 602",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1joQYqARasIexQ0v2-wRULXELWh8DJkdp/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Image Processing",
             "code":"PECIT601A/B/C/D",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1tNs8NvcxsOIo2PVmcAKTuB81F2UxQz3t/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"Pattern Recognization",
             "code":"PECIT602A/B/C/D",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1_WIMPbBLuSAMO6jHb1s6LLboaR6pN12j/view?usp=drivesdk",
             "playlist":"url"
         }, 
         {   
             "subject":"NM",
             "code":"OECIT601A/B",
             "pyqLink":[],
-            "organiser":"url",
+            "organiser":"https://drive.google.com/file/d/1id3p0XXh58k59NxoGuXywDbmlQMJ7R1P/view?usp=drivesdk",
+            "playlist":"url"
+        }
+    ],
+
+    "sem7":[
+        {   
+            "subject":"Cyber security",
+            "code":"PCC-CS 601",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1A983f72tyAF-9htfX6hvXPlOaHolNGJ-/view?usp=drivesdk",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Multimedia Organizer",
+            "code":"PCC-CS 602",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1HrVPGLF0-pGMy7bFWjMbtZlkCGcRhaNe/view?usp=drivesdk",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Cloud Computing ",
+            "code":"PECIT601A/B/C/D",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1NLDYzvzd5Pmfo0nXVq7XPyOwrljlTp4a/view?usp=drivesdk",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Project Management",
+            "code":"PECIT602A/B/C/D",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1tQ3I17lW1RiVwBXQR_1z0Tco9zlcFOI1/view?usp=drivesdk",
+            "playlist":"url"
+        }
+    ],
+
+    "sem8":[
+        {   
+            "subject":"E-commerce _ ERP",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1cNElW6Ruu6vqkDSTRaJCXZgoJCY_19Uy/view?usp=drivesdk",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Cyber Law and Ethics ",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1T2z7O-Q50PZC-eW-lJndIgcRPv1I6bVr/view?usp=drivesdk",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"Web and Internet Technology",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/1qgcWbtD85fbuToAIGWWEYydmIO8DwyOV/view?usp=drivesdk",
+            "playlist":"url"
+        }, 
+        {   
+            "subject":"E-Commerce",
+            "code":"",
+            "pyqLink":[],
+            "organiser":"https://drive.google.com/file/d/10PbfU15gKsdTZmZ7NEV-b2fHePJbNfDz/view?usp=drivesdk",
             "playlist":"url"
         }
     ]
